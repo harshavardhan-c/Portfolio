@@ -28,3 +28,8 @@ next-env.d.ts
 
 # allow example env file
 !.env.example
+
+# personal working files (resume source, photo originals, Office lock files)
+*.docx
+~$*
+/image.jpeg
